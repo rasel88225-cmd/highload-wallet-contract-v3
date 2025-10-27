@@ -14,7 +14,7 @@ Build:
 
 `npm run build`
 
-Test:
+    Test:
 
 `npm run test`
 
